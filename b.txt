@@ -1,1 +1,2 @@
 printf()[D""[Dlalala~~~")
+printf("lololo~~~")
